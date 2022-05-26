@@ -1,5 +1,6 @@
 # Here I add the stuff needed for the automations and other things. This is not my full configuration.yaml file
 
+automation: !include_dir_merge_list automation
 
 input_boolean:
   vacationmode:

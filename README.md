@@ -4,6 +4,9 @@
 
 I run Home Assistant as a virtual machine on a Proxmox host
 
+I monitor my power usage with Tibber Pulse. It's connected to the HAN port of my smart meter.
+
+I also use Nabu Casa Cloud, and most integrations work through that solution.
 
 I have 3 touchscreen devices around my apartment for easy access to controlling lights, and more.
 
@@ -42,4 +45,4 @@ Vacuum cleaner:
   * If you're looking for it in my config files, it's called Deku.
 
 Blinds:
-  * [IKEA Fyrtur](https://www.ikea.com/no/no/p/fyrtur-lystett-rullegardin-tradlos-batteridrevet-gra-20408178/) - requires HA 0.100
+  * [IKEA Fyrtur](https://www.ikea.com/no/no/p/fyrtur-lystett-rullegardin-tradlos-batteridrevet-gra-20408178/)
